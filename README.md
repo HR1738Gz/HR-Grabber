@@ -76,24 +76,39 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 You dont need to install  python opening install_python.bat will install it for you.
 ```
-### 4. Open The install.bat File:
+### 4. Open The run as administrator.bat File:
 
 ```
-You dont need to install any modules opening setup.bat will install them for you.
+left click and press run as administrator for your file to be fud
 ```
-### 5. Create A Webhook:
+### 5. Open The download.bat File this for the gui:
+
+```
+You dont need to install any modules opening download.bat will install them for you.
+```
+### 6. Open The install.bat File this for the python:
+
+```
+You dont need to install any modules opening install.bat will install them for you.
+```
+### 7. open builder.pyw for the gui:
+
+```
+This will open the gui
+```
+### 8. Create A Webhook:
 
 ```
 This webhook will be sent any victims you log so don't delete it once it's made. Once you've created one paste it
 into the box which asks for your webhook.
 ```
-### 6. Configurable Options:
+### 9. Configurable Options:
 
 ```
 Now once you've done that you can tick on the options that you want enabled and anything you don't understand you can go 
 to the documentation where each option is explained.
 ```
-### 7. What Now?
+### 10. What Now?
 
 ```
 The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send
