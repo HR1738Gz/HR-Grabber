@@ -71,10 +71,10 @@ Switch Real-time protection to Off. Note that scheduled scans will continue to r
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The install_python.bat.bat File:
+### 3. Open The install_python.exe File:
 
 ```
-You dont need to install  python opening install_python.bat will install it for you.
+Make sure you have Python installed 3.11+ and it is added to your path
 ```
 ### 4. Open The run as administrator.bat File:
 
@@ -89,6 +89,7 @@ You dont need to install any modules opening download.bat will install them for 
 ### 6. Open The install.bat File this for the python:
 
 ```
+This may not work so just do pip install requirements.txt
 You dont need to install any modules opening install.bat will install them for you.
 ```
 ### 7. open builder.pyw for the gui:
