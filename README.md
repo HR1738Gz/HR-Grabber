@@ -75,8 +75,10 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 
 ```
 Make sure you have Python installed 3.11+ and it is added to your path
-(Download)[https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe]
+
 ```
+(Download)[https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe]
+
 ### 4. Open The run as administrator.bat File:
 
 ```
