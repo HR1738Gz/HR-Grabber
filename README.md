@@ -94,7 +94,7 @@ You dont need to install any modules opening download.bat will install them for 
 This may not work so just do pip install requirements.txt
 You dont need to install any modules opening install.bat will install them for you.
 ```
-### 7. open builder.pyw for the gui:
+### 7. open Run.bat for the gui:
 
 ```
 This will open the gui
