@@ -2,7 +2,7 @@
   HR Token Grabber
 </h1>
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://streamable.com/e/oqcpva)"Now in Android: 55")
+[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1him4ivd61u8d1vck1jmn1um5itfl.png)" width="50%">](https://streamable.com/e/oqcpva)"Video for help")
 this is the luna grabber just with a bunch of bat for easy build form my bffs Who's struggle with making it 
 
 ## Features
