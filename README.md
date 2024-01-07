@@ -57,7 +57,14 @@ this is the luna grabber just with a bunch of bat for easy build form my bffs Wh
 ## Installation
 We got a auto bat system
 
-### 1. Turn off antivirus:
+### 1. Open The install_python.exe File:
+
+```
+Make sure you have Python installed 3.11+ and it is added to your path
+
+```
+[Download](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+### 2. Turn off antivirus:
 
 ```
 Select Start  and type "Windows Security" to search for that app.
@@ -66,19 +73,11 @@ Select the Windows Security app from the search results, go to Virus & threat pr
 
 Switch Real-time protection to Off. Note that scheduled scans will continue to run. However, files that are downloaded or installed will not be scanned until the next scheduled scan.
 ```
-### 2. Download The Files:
+### 3. Download The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The install_python.exe File:
-
-```
-Make sure you have Python installed 3.11+ and it is added to your path
-
-```
-[Download](https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe)
-
 ### 4. Open The run as administrator.bat File:
 
 ```
